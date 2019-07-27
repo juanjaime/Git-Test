@@ -34,9 +34,6 @@ Branch unite
 Continue file from github afet branch1
 -- master
 Continue file from github afer branch2
-<<<<<<< HEAD
 Continue file from HP afet branch1
 Continue file from github afer branch3
 A change in testbranch for testbranch remote from hp
-=======
->>>>>>> parent of 0333fa3... Commited continuous test
