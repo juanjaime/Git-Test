@@ -21,6 +21,7 @@ Agregando una linea en github
 
 
 #HP new line 3
+<<<<<<< HEAD
 -- testbranch
 
 
@@ -37,3 +38,9 @@ Continue file from github afer branch2
 Continue file from HP afet branch1
 Continue file from github afer branch3
 A change in testbranch for testbranch remote from hp
+=======
+Continue file from github afet branch1
+Continue file from github afer branch2
+Continue file from HP afet branch1
+Continue file from github afer branch3
+>>>>>>> 69458d66235a21de5c1decb1149b9f167bb256f7
