@@ -13,11 +13,11 @@ Agregando una linea en github
 
 
 
-#HP Edicion para ver si pide credenciales||Comentario HP
-#Nueva prueba de credenciales despues de probar remote set-url origin link 
-#HP Complemento
+#HP Edicion para ver si pide credenciales//Edicion desde Github en linea existente... poner comentario HP||Comentario HP
+#Nueva prueba de credenciales despues de probar remote set-url origin link //Edicion desdeGithub
+#Github Nueva Linea que va a see complementada con HP#HP Complemento
 
-
+#Github Linea Normal
 
 
 #HP new line 3
