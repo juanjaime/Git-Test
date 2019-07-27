@@ -28,11 +28,8 @@ Agregando una linea en github
 A messy messy line to test
 
 this goes to master
-<<<<<<< HEAD
 
 Branch unite
-=======
 -
 Continue file from github afet branch1
 -- master
->>>>>>> b09c5c41df6b8a1f1b3a3645a498e5e61ba136ab
