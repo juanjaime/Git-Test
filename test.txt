@@ -21,26 +21,7 @@ Agregando una linea en github
 
 
 #HP new line 3
-<<<<<<< HEAD
--- testbranch
-
-
-
-A messy messy line to test
-
-this goes to master
-
-Branch unite
--
-Continue file from github afet branch1
--- master
-Continue file from github afer branch2
-Continue file from HP afet branch1
-Continue file from github afer branch3
-A change in testbranch for testbranch remote from hp
-=======
 Continue file from github afet branch1
 Continue file from github afer branch2
 Continue file from HP afet branch1
 Continue file from github afer branch3
->>>>>>> 69458d6... reset Test Final
