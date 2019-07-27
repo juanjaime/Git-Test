@@ -16,6 +16,7 @@ Agregando una linea en github
 #HP Edicion para ver si pide credenciales//Edicion desde Github en linea existente... poner comentario HP||Comentario HP
 #Nueva prueba de credenciales despues de probar remote set-url origin link //Edicion desdeGithub
 #Github Nueva Linea que va a see complementada con HP#HP Complemento
+<<<<<<< HEAD
 
 #Github Linea Normal
 
@@ -25,3 +26,26 @@ Continue file from github afet branch1
 Continue file from github afer branch2
 Continue file from HP afet branch1
 Continue file from github afer branch3
+=======
+
+#Github Linea Normal
+
+
+#HP new line 3
+-- testbranch
+
+
+
+A messy messy line to test
+
+this goes to master
+
+Branch unite
+-
+Continue file from github afet branch1
+-- master
+Continue file from github afer branch2
+Continue file from HP afet branch1
+Continue file from github afer branch3
+A change in testbranch for testbranch remote from hp
+>>>>>>> e37606777c5f65753e20593adfcad7c0913a50eb
